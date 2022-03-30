@@ -1,0 +1,7 @@
+Z:\sql\eretsegi2018okt\2018eretsegi\cbradio\cbradio\bin\Debug\cbradio.exe.config
+Z:\sql\eretsegi2018okt\2018eretsegi\cbradio\cbradio\bin\Debug\cbradio.exe
+Z:\sql\eretsegi2018okt\2018eretsegi\cbradio\cbradio\bin\Debug\cbradio.pdb
+Z:\sql\eretsegi2018okt\2018eretsegi\cbradio\cbradio\obj\Debug\cbradio.csprojAssemblyReference.cache
+Z:\sql\eretsegi2018okt\2018eretsegi\cbradio\cbradio\obj\Debug\cbradio.csproj.CoreCompileInputs.cache
+Z:\sql\eretsegi2018okt\2018eretsegi\cbradio\cbradio\obj\Debug\cbradio.exe
+Z:\sql\eretsegi2018okt\2018eretsegi\cbradio\cbradio\obj\Debug\cbradio.pdb
